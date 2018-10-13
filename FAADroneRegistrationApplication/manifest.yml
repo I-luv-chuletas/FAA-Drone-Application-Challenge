@@ -1,0 +1,4 @@
+applications:
+- name: FAADroneRegistrationApplication
+  random-route: true
+  memory:512M
